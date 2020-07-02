@@ -6,7 +6,7 @@ This repository gathers notebooks demonstrating different software tools for the
 
 The notebooks can be visualized and downloaded at https://nbviewer.jupyter.org/github/algorecell/flavours-of-reprogramming/tree/main.
 
-They can be executed interactively within the [CoLoMoTo Docker](https://colomoto.org/notebook) version `2020-07-01`:
+They can be executed interactively within the [CoLoMoTo Docker](http://colomoto.org/notebook) version `2020-07-01`:
 * online, using myBinder service at https://mybinder.org/v2/gh/algorecell/flavours-of-reprogramming/main
 * or on your computer, provided you have [Docker](https://docs.docker.com/get-docker/) and Python 3 installed:
    1. download the notebooks from  https://github.com/algorecell/flavors-of-reprogramming/archive/main.zip and extract the zip file
